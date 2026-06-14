@@ -1,0 +1,9 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Local python environments or cache
+__pycache__/
+*.pyc
+.env
+venv/
